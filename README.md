@@ -10,8 +10,8 @@ mortgage = principal * (numerator/denominator) <br />
 numerator = ( interestRate ( 1 + interestRate ) ) ^ numberOfPayments <br />
 denominator = ( ( 1 + interestRate ) ^ numberOfPayments ) - 1
 
-Example:
-Principal: 100000
-Interest Rate: 3.92
-Period (Years): 30
+Example: <br />
+Principal: 100000 <br />
+Interest Rate: 3.92 <br />
+Period (Years): 30 <br />
 Mortgage: $472.81
