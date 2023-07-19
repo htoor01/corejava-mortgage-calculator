@@ -14,4 +14,6 @@ Example: <br />
 Principal: 100000 <br />
 Interest Rate: 3.92 <br />
 Period (Years): 30 <br />
-Mortgage: $472.81
+Mortgage: $472.81 <br />
+
+Also basic error handling (such that it will not let you input values beyond certain range.
